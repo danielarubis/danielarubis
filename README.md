@@ -15,8 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src"https://spotify-now-playing-iwx0toitt-danielarubis.vercel.app/api/spotify-playing" alt="danirubis-spotify-playlist" width="350"/>](https://open.spotify.com/user/USER_NAME)
-
+[<img src="https://spotify-now-playing-rho-five.vercel.app/api/spotify-playing" alt="Spotify-Playlist" width="350"/>](https://open.spotify.com/user/daniirubis)
 
 ---
 ### Conect with me:
