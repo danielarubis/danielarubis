@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/daniirubis?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/daniirubis)
 
-### I'm Web developer 👩🏻‍💻 and Python Enthusiast 🐍
+## I'm Web Developer 👩🏻‍💻 and Python Enthusiast 🐍
 </br>
 
 - 🔎 I'm currently looking for my first job in technology
