@@ -1,10 +1,10 @@
 ### Hey there 👋 I'm Daniela
-</br>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/daniirubis?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/daniirubis)
 
-## I'm Web Developer 👩🏻‍💻 and Python Enthusiast 🐍
 </br>
+
+## I'm Web Developer 👩🏻‍💻 and Python Enthusiast 🐍
 
 - 🔎 I'm currently looking for my first job in technology
 - 👩🏻‍💻 I’m currently learning more about web dev and Python
@@ -18,6 +18,7 @@
 [<img src="https://spotify-playing-zeta-nine.vercel.app/api/spotify" alt="Spotify" width="350"/>](https://open.spotify.com/user/daniirubis)
 
 ---
+
 ### Conect with me:
 [<img src="https://img.icons8.com/metro/26/000000/linkedin.png"/>](https://www.linkedin.com/in/ivonne-daniela-rubis-1b993217a/)
 [<img src="https://img.icons8.com/metro/26/000000/instagram.png"/>](https://www.instagram.com/daniirubis/)
