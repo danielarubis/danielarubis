@@ -13,6 +13,12 @@
 
 ---
 
+### Spotify Playing 🎧
+
+[<img src"https://spotify-now-playing-iwx0toitt-danielarubis.vercel.app/api/spotify-playing" alt="danirubis-spotify-playlist" width="350"/>](https://open.spotify.com/user/USER_NAME)
+
+
+---
 ### Conect with me:
 [<img src="https://img.icons8.com/metro/26/000000/linkedin.png"/>](https://www.linkedin.com/in/ivonne-daniela-rubis-1b993217a/)
 [<img src="https://img.icons8.com/metro/26/000000/instagram.png"/>](https://www.instagram.com/daniirubis/)
