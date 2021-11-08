@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/daniirubis?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/daniirubis)
 
 
-# I'm Python Developer Trainee 🐍
+# I'm Python Developer / Web Developer Trainee
 
 - 🔎 I'm currently looking for my first job in technology
 - 👩🏻‍💻 I’m currently learning more about web dev and Python
