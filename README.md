@@ -1,7 +1,5 @@
 ### Hey there 👋 I'm Daniela
 
-</br>
-
 # Python Developer 🐍
 
 - 🔎 I'm currently looking for my first job in technology
