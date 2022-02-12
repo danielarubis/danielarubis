@@ -2,15 +2,12 @@
 
 </br>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/daniirubis?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/daniirubis)
-
-
-# I'm Python Developer
+# Python Developer 🐍
 
 - 🔎 I'm currently looking for my first job in technology
-- 👩🏻‍💻 I’m currently learning more about web dev and Python
+- 👩🏻‍💻 I’m currently learning more about Database and Python
 - 👯 I'm looking to contribute in Open Source projects
-- ⚡ Fun fact: I love dance and paint with watercolors
+- ⚡ Fun fact: I love pastry, painting with watercolors and practicing Brazilian Jiu-Jitsu
 
 ---
 
@@ -29,13 +26,15 @@
 ---
 
 ### Skills:
+<img align="left" alt="Python" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+
+<img align="left" alt="MySql" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
+
 <img align="left" alt="HTML5" width="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 
 <img align="left" alt="CSS3" width="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 
 <img align="left" alt="JavaScript" width="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-
-<img align="left" alt="SASS" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
 
 <img align="left" alt="Bootstrap" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
 
@@ -46,5 +45,3 @@
 <img align="left" alt="Github" width="25" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 
 <img align="left" alt="Terminal" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
-
-<img align="left" alt="Python" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
