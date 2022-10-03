@@ -1,9 +1,9 @@
 ### Hey there 👋 I'm Daniela
 
-# Python Developer 🐍
+# Web Developer 🐍
 
 - 🔎 I'm currently looking for my first job in technology
-- 👩🏻‍💻 I’m currently learning more about Database and Python
+- 👩🏻‍💻 I’m currently learning more about databases and AWS Cloud
 - 👯 I'm looking to contribute in Open Source projects
 - ⚡ Fun fact: I love pastry, painting with watercolors and practicing Brazilian Jiu-Jitsu
 
